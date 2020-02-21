@@ -6,14 +6,10 @@
 - Ressources des fichiers utilisés disponible à cette adresse : <a href="https://awesome-react.fr/ressources/" >https://awesome-react.fr/ressources/</a>
 - Documentation officiel de react en français disponible à cette adresse : <a href="https://fr.reactjs.org/" >https://fr.reactjs.org/</a>
 
-# Lien de l'application visible sur le net
-- à venir...
-
-# Screen de l'application
-- à venir...
-
-
 # Remerciements
 - Ma famille
 - Mes amis
-- Simon l'auteur de cette application 
+- Simon l'auteur de cette application
+
+# Screen de l'application
+- <img src="https://github.com/Zyrass/React-Pokemon/blob/master/capture.png?raw=true" alt="rendu final" />
