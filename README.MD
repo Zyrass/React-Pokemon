@@ -12,4 +12,4 @@
 - Simon l'auteur de cette application
 
 # Screen de l'application
-- <img src="https://github.com/Zyrass/React-Pokemon/blob/master/capture.png?raw=true" alt="rendu final" />
+<img src="https://github.com/Zyrass/React-Pokemon/blob/master/capture.png?raw=true" alt="rendu final" />
